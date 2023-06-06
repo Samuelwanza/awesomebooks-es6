@@ -24,7 +24,7 @@
 
 # 📖 [Awesome Books Project] <a name="about-project"></a>
 
-**[Awesome Books]** is a project that we have developed to showcase our skills in DOM Manipulation and Dynamic Functionality application.
+**[Awesome Books]** is a project that we have developed to showcase our skills in DOM Manipulation and Dynamic Functionality application and es6 manipulation
 
 <br>
 
@@ -68,11 +68,11 @@ git clone https://github.com/Samuelwanza/awesomebooks-es6/.git
 
 ### Usage:
 
-To explore the tools I have used to create my portfolio, follow these steps:
+To explore the tools I have used to create this project, follow these steps:
 
 1. Open the project in Visual Studio Code (VSCode).
 2. Take a look at the project structure and files to understand the implementation.
-3. Review the code, HTML, CSS, and other resources to see how the portfolio is built.
+3. Review the code, HTML, CSS, and other resources to see how the project is built.
 
 Feel free to explore and customize the project according to your needs.
 
