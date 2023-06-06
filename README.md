@@ -63,7 +63,7 @@ To get started, clone this repository to your desired folder:
 
 ```shell
 cd my-folder
-git clone https://github.com/oluwatobi-fasasi/Awesome-Books/.git
+git clone https://github.com/Samuelwanza/awesomebooks-es6/.git
 ```
 
 ### Usage:

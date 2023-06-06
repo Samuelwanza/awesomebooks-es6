@@ -19,6 +19,8 @@
     "stylelint-scss": "^3.21.0"
   },
   "dependencies": {
+    "luxon": "^3.3.0",
     "package": "^1.0.1"
-  }
+  },
+  "type":"module"
 }

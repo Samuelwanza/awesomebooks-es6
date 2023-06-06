@@ -116,6 +116,12 @@ h2 {
   gap: 10px;
 }
 
+main > p {
+  align-self: flex-end;
+  margin-bottom: 100px;
+  font-weight: bold;
+}
+
 .book-item > p {
   font-weight: bold;
   font-size: 2vw;
