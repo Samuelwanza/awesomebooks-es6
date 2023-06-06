@@ -91,8 +91,8 @@ By following these steps, you can effectively run and validate the tests for the
 
 ### Deployment:
 
-Deployment date: 2nd June, 2023.
-[Deployed Link](https://awesome-books-version1.vercel.app/)
+Deployment date: 6th June, 2023.
+[Deployed Link]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
